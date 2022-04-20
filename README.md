@@ -2,7 +2,7 @@
 
 ### Checkout repo
 ```bash
-git clone git@github.com:memocash/desktop.git
+git clone git@github.com:uvhw/desktop.git
 cd desktop
 ```
 
